@@ -1,5 +1,4 @@
 
-![photo_2024-11-21_20-16-39](https://github.com/user-attachments/assets/d2ab3171-6aac-4590-827f-925bd7419a88)
 ![FREE PRINTING SERVICE](https://github.com/user-attachments/assets/2026528a-fc0e-4247-a671-7efd89632ed1)
 ![sports](https://github.com/user-attachments/assets/404340f0-c066-4833-bfdc-db0a138c1156)
 ![school supplies](https://github.com/user-attachments/assets/06731595-e515-4fc7-a9de-f25e4ee2d711)
