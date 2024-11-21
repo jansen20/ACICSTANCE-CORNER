@@ -30,3 +30,5 @@
 ![19](https://github.com/user-attachments/assets/dae444b9-5e75-4c7a-a357-e7a766119883)
 ![18](https://github.com/user-attachments/assets/71a16209-e2e4-4997-929c-fc5678174e11)
 ![17](https://github.com/user-attachments/assets/d2be114e-8742-4fa0-85a4-a22be12a4567)
+![photo_2024-11-21_20-16-39](https://github.com/user-attachments/assets/d2ab3171-6aac-4590-827f-925bd7419a88)
+
