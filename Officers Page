@@ -65,145 +65,208 @@
         <h1>Meet Our Officers</h1>
         <div class="officer-container">
             <!-- Officer 1 -->
-            <div class="officer">
-                <img src="officer1.jpg" alt="John Doe">
-                <h3>John Doe</h3>
-                <p>Position: Adviser</p>
-                <p>John is a dedicated leader with a passion for student welfare and community building.</p>
-            </div>
+            
             <!-- Officer 2 -->
             <div class="officer">
-                <img src="officer2.jpg" alt="Jane Smith">
-                <h3>Jane Smith</h3>
-                <p>Position: President</p>
-                <p>Jane is known for her excellent organizational skills and commitment to the council's mission.</p>
+                <img src="https://private-user-images.githubusercontent.com/187833159/388504930-d2ab3171-6aac-4590-827f-925bd7419a88.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIxOTU3NTIsIm5iZiI6MTczMjE5NTQ1MiwicGF0aCI6Ii8xODc4MzMxNTkvMzg4NTA0OTMwLWQyYWIzMTcxLTZhYWMtNDU5MC04MjdmLTkyNWJkNzQxOWE4OC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyMVQxMzI0MTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05YzZhMGJkNDU1N2MxMzc2MmU4NmY0NjZjOTQ3ZTNiMGM0YzQ5NGM2YTVmYTFhYTI4MDk4MjE4N2JiMWE4ZTQzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.ex8SZIje2N5rgAI_wOJMrEmljq1q35SphXZe39noIbM" alt="Yeleina Lagajeno">
+                <h3>Yeleina Lagajeno</h3>
+                <p>President</p>
+              
             </div>
             <!-- Officer 3 -->
             <div class="officer">
-                <img src="officer3.jpg" alt="Robert Johnson">
-                <h3>Robert Johnson</h3>
-                <p>Position: Vice President</p>
-                <p>Robert ensures smooth operations and supports the council's initiatives.</p>
+                <img src="https://private-user-images.githubusercontent.com/119770157/388501079-87848457-9ffa-4716-a9c2-fa2b9d82acdf.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIxOTMxNTMsIm5iZiI6MTczMjE5Mjg1MywicGF0aCI6Ii8xMTk3NzAxNTcvMzg4NTAxMDc5LTg3ODQ4NDU3LTlmZmEtNDcxNi1hOWMyLWZhMmI5ZDgyYWNkZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyMVQxMjQwNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xM2U5YmZkMGI2ZDNjNTlmZWJiMmMwNTE1NjQ0MDU3YTY2YWQzYjc4ZTAyY2YxYTBmMjk2NDYzYWYyNjkwZTg3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.5R2O-ZOj1RoV9lgspAx1CxM-LkCrGQ0mFlyqR-kkOzE" alt="Kris Nathaniel Dimaapi">
+                <h3>Kris Nathaniel Dimaapi</h3>
+                <p> External Vice President</p>
+                
             </div>
             <!-- Officer 4 -->
             <div class="officer">
-                <img src="officer4.jpg" alt="Emily Davis">
-                <h3>Emily Davis</h3>
-                <p>Position: Secretary</p>
-                <p>Emily manages communications and keeps everyone informed.</p>
+                <img src="https://private-user-images.githubusercontent.com/119770157/388501085-7ba7e61d-8ab3-4808-bc7d-8bb89f6ec930.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIxOTMxNTMsIm5iZiI6MTczMjE5Mjg1MywicGF0aCI6Ii8xMTk3NzAxNTcvMzg4NTAxMDg1LTdiYTdlNjFkLThhYjMtNDgwOC1iYzdkLThiYjg5ZjZlYzkzMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyMVQxMjQwNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02MWE2Yjg3Nzk0MDkyZmIxNGZkNzJjNTkyN2IwNTMwMWU5NmJlMWJjZmM4NmU1ODM5MmI2YjllMjJkYTFhMDc0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.3jwcOPREdvSKTGyLjxp39_-AndgQO4L3E4NsL6X6iz4" alt="Demmer Marvic Valeriano">
+                <h3>Demmer Marvic Valeriano</h3>
+                <p>Internal Vice President</p>
+              
             </div>
             <!-- Officer 5 -->
             <div class="officer">
-                <img src="officer5.jpg" alt="Michael Wilson">
-                <h3>Michael Wilson</h3>
-                <p>Position: Treasurer</p>
-                <p>Michael oversees the budget and ensures financial stability.</p>
+                <img src="https://private-user-images.githubusercontent.com/119770157/388501092-b37f033a-66bf-45e4-902d-fcf509bd7db6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIxOTMxNTMsIm5iZiI6MTczMjE5Mjg1MywicGF0aCI6Ii8xMTk3NzAxNTcvMzg4NTAxMDkyLWIzN2YwMzNhLTY2YmYtNDVlNC05MDJkLWZjZjUwOWJkN2RiNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyMVQxMjQwNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lYTkxNzM3ZTBmMDA1ODM3ZjliZTQyMjg5NmYxNmIzYjNkZTZlNjRlNDE1ODYzNDMzZWFkNGIxOWI2ODEzMGQyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.9Hx5iQW8sxLNgHbqrGXBz-fvMPUh6IVeWf9pQ43knzY" alt="Mark Wilhelm Trevor Marcos">
+                <h3>Mark Wilhelm Trevor Marcos</h3>
+                <p>Secretary</p>
+                
             </div>
             <!-- Officer 6 -->
             <div class="officer">
-                <img src="officer6.jpg" alt="Sarah Brown">
-                <h3>Sarah Brown</h3>
-                <p>Position: PRO</p>
-                <p>Sarah handles public relations and event promotions.</p>
+                <img src="https://private-user-images.githubusercontent.com/119770157/388501109-65c521c5-9f87-42cc-8ca6-6fa36981f4de.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIxOTU3NTIsIm5iZiI6MTczMjE5NTQ1MiwicGF0aCI6Ii8xMTk3NzAxNTcvMzg4NTAxMTA5LTY1YzUyMWM1LTlmODctNDJjYy04Y2E2LTZmYTM2OTgxZjRkZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyMVQxMzI0MTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iNjdmMDIxMDAzZmIwZjMzZjg0ODcwYTkzNjYwNjM3YzBiN2UxNzVlMGRlMGVhMWEzZWI1ZWI1MTVhMzZiNjkyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.ianOR_aBgMy9srh8Om76py15jXDaKqY4bq3sGCt7gqk" alt="Patricia Anne Mangubat">
+                <h3>Patricia Anne Mangubat</h3>
+                <p>Treasurer</p>
+                
             </div>
             <!-- Officer 7 -->
             <div class="officer">
-                <img src="officer7.jpg" alt="David Taylor">
-                <h3>David Taylor</h3>
-                <p>Position: Member</p>
-                <p>David contributes innovative ideas to council projects.</p>
+                <img src="https://private-user-images.githubusercontent.com/119770157/388501101-0efea266-568e-4788-b182-5fcccf98a79e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIxOTMxNTMsIm5iZiI6MTczMjE5Mjg1MywicGF0aCI6Ii8xMTk3NzAxNTcvMzg4NTAxMTAxLTBlZmVhMjY2LTU2OGUtNDc4OC1iMTgyLTVmY2NjZjk4YTc5ZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyMVQxMjQwNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03NjY2OGI5M2Y3N2E2MWZkNzFmNTQ3OGE1NWNiZDY3MTE4ZWRlNWU1MzY1ZmMyNDY1ZWM2M2Q2OTMwNWZmMjU3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.T2b2jKpH8YBIrlzi8FzKbzQb5YKbg7dABPzCJ8p84kg" alt="Richard Chrue Torres">
+                <h3>Richard Chrue Torres</h3>
+                <p>Assistant Treasurer</p>
+                
             </div>
             <!-- Officer 8 -->
             <div class="officer">
-                <img src="officer8.jpg" alt="Olivia Moore">
-                <h3>Olivia Moore</h3>
-                <p>Position: Member</p>
-                <p>Olivia actively participates in planning and organizing events.</p>
+                <img src="https://private-user-images.githubusercontent.com/119770157/388501120-e5866a69-3a2f-4e7d-9c47-6c8ffd806dd4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIxOTMxNTMsIm5iZiI6MTczMjE5Mjg1MywicGF0aCI6Ii8xMTk3NzAxNTcvMzg4NTAxMTIwLWU1ODY2YTY5LTNhMmYtNGU3ZC05YzQ3LTZjOGZmZDgwNmRkNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyMVQxMjQwNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04NzkxOGJhY2MwZDBiMGUzYzQ4OThlMWY2ZTM1ZGQzYjM2NTIwZDc2MmZjMzdmMDFlZDVkYzg4NzU0OTM2NWE4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.neKkf4f04FSwm_f9jx5_zdWQPUyr4o2rbWu3mBi-BbI" alt="Nathalie Ellaina Anicas">
+                <h3>Nathalie Ellaina Anicas</h3>
+                <p>Auditor</p>
+                
             </div>
             <!-- Officer 9 -->
             <div class="officer">
-                <img src="officer9.jpg" alt="Daniel Anderson">
-                <h3>Daniel Anderson</h3>
-                <p>Position: Member</p>
-                <p>Daniel is a driving force behind volunteer engagement.</p>
+                <img src="https://private-user-images.githubusercontent.com/119770157/388501151-84c13c06-8102-4e16-8d31-ace18b354a5c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIxOTMxNTMsIm5iZiI6MTczMjE5Mjg1MywicGF0aCI6Ii8xMTk3NzAxNTcvMzg4NTAxMTUxLTg0YzEzYzA2LTgxMDItNGUxNi04ZDMxLWFjZTE4YjM1NGE1Yy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyMVQxMjQwNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mNGE3MTFjN2UwM2YxYTczZWI2NmU3ZDQ4YTBkNWUzYzY0MzY5MGE1MjJmOGM0M2Y2ZjZhOTcyMGM2NDFmNjk0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.5_g13CccVDEHrfD4MKlTfkkeKv49-6Se2LOZASKwtvo" alt="Jansen Cruzat">
+                <h3>Jansen Cruzat</h3>
+                <p>Business Manager I</p>
+             
             </div>
             <!-- Officer 10 -->
             <div class="officer">
-                <img src="officer10.jpg" alt="Sophia Thomas">
-                <h3>Sophia Thomas</h3>
-                <p>Position: Member</p>
-                <p>Sophia specializes in creative event planning.</p>
+                <img src="https://private-user-images.githubusercontent.com/119770157/388501169-9a61d348-7f79-46d1-a514-ed50ec7b2ce3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIxOTMxNTMsIm5iZiI6MTczMjE5Mjg1MywicGF0aCI6Ii8xMTk3NzAxNTcvMzg4NTAxMTY5LTlhNjFkMzQ4LTdmNzktNDZkMS1hNTE0LWVkNTBlYzdiMmNlMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyMVQxMjQwNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iYjE1ZTBjZGZiOTIzNWUzMjAwOGU3ODg2OGVhYzJlZTg5NGIyNTljZDNlYzgyNzQzZjVlNDc5YjIzOTM1ZjdkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.3xWl_V8m31RiMTdlz1OstdIc099q41NWhJmPDxvuGYY" alt="Iemerie Jom Manguit">
+                <h3>Iemerie Jom Manguit</h3>
+                <p>Business Manager II</p>
+               
             </div>
             <!-- Officer 11 -->
             <div class="officer">
-                <img src="officer11.jpg" alt="James Jackson">
-                <h3>James Jackson</h3>
-                <p>Position: Member</p>
-                <p>James coordinates logistics for council activities.</p>
+                <img src="https://private-user-images.githubusercontent.com/119770157/388501138-e9d3f792-db30-4e10-b0f9-2ee972720ec1.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIxOTMxNTMsIm5iZiI6MTczMjE5Mjg1MywicGF0aCI6Ii8xMTk3NzAxNTcvMzg4NTAxMTM4LWU5ZDNmNzkyLWRiMzAtNGUxMC1iMGY5LTJlZTk3MjcyMGVjMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyMVQxMjQwNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMjU4N2YzZjIzZmMyNWU0YjgxZDU2MDJmNDE1NzlhZDgyMjc4YjAxYjhkMjg0ZTJlZWMxN2ViM2Y4NTQ3ZTc4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.EIndXg378razjwHBfOGwtr-Q10X5SLzZnf4g0jp7Td4" alt="Art Cedrick Platon">
+                <h3>Art Cedrick Platon</h3>
+                <p>Public Relations Officer I</p>
+              
             </div>
             <!-- Officer 12 -->
             <div class="officer">
-                <img src="officer12.jpg" alt="Isabella Martinez">
-                <h3>Isabella Martinez</h3>
-                <p>Position: Member</p>
-                <p>Isabella is a passionate advocate for community service.</p>
+                <img src="https://private-user-images.githubusercontent.com/119770157/388501128-522cd2de-4404-43b8-b6fd-fa806e67a45d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIxOTMxNTMsIm5iZiI6MTczMjE5Mjg1MywicGF0aCI6Ii8xMTk3NzAxNTcvMzg4NTAxMTI4LTUyMmNkMmRlLTQ0MDQtNDNiOC1iNmZkLWZhODA2ZTY3YTQ1ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyMVQxMjQwNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02YjUwNzM4NmNjMzE2NTVkMzdiOWYwYTk3NjE3MmEyNTQxYWU2Yjg2NzE4YTkzYTU2YjhkNWEwZjU1NWNlNDYzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.YzuFRn_4YFR_qRE_2D5DhStrjiVeZ8WFERE6PDRwkTg" alt="Rhea Anne Gonzales">
+                <h3>Rhea Anne Gonzales</h3>
+                <p>Public Relations Officer II</p>
+            
             </div>
             <!-- Officer 13 -->
             <div class="officer">
-                <img src="officer13.jpg" alt="Matthew White">
-                <h3>Matthew White</h3>
-                <p>Position: Member</p>
-                <p>Matthew excels in mentorship and guidance.</p>
+                <img src="https://private-user-images.githubusercontent.com/119770157/388501160-f5429bc3-a06b-4207-8830-ae32e156671e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIxOTMxNTMsIm5iZiI6MTczMjE5Mjg1MywicGF0aCI6Ii8xMTk3NzAxNTcvMzg4NTAxMTYwLWY1NDI5YmMzLWEwNmItNDIwNy04ODMwLWFlMzJlMTU2NjcxZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyMVQxMjQwNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iZDdiNDE0NDhjZDVmZjY0YTY1YzNkYzZiMmExMjhiZmJiNGJiZjQ2MmU1MGYxN2NkNzFhOGM5YWI4NjY4YmM2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.zZjexvT5A2OJ_5eIDRGS3qzqLWA4Rcb7eUjxe7PvxkY" alt="Aeron Evangelista">
+                <h3>Aeron Evangelista</h3>
+                <p>Committee Head For Academic Affairs</p>
+                
             </div>
             <!-- Officer 14 -->
             <div class="officer">
-                <img src="officer14.jpg" alt="Charlotte Harris">
-                <h3>Charlotte Harris</h3>
-                <p>Position: Member</p>
-                <p>Charlotte is a creative force in team collaborations.</p>
+                <img src="https://private-user-images.githubusercontent.com/119770157/388501181-e5791163-db89-4afc-bfe4-4ef4dbb6355a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIxOTMxNTMsIm5iZiI6MTczMjE5Mjg1MywicGF0aCI6Ii8xMTk3NzAxNTcvMzg4NTAxMTgxLWU1NzkxMTYzLWRiODktNGFmYy1iZmU0LTRlZjRkYmI2MzU1YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyMVQxMjQwNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zOTUzYzViOTM4YmQ0MWQwOTljMzlmM2ZmYzc0YTJiZTFmZDVhNGRjODAyOGFmYWJiODllMDQ5MDllODQ1MmMxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.0gcXPBrZ9Kh6Gxzj7oGYOBoULPOOUMAbqSOdNFPaqNs" alt="Billymer Salamat">
+                <h3>Billymer Salamat</h3>
+                <p>Committee Head For Sports</p>
+               
             </div>
             <!-- Officer 15 -->
             <div class="officer">
-                <img src="officer15.jpg" alt="Anthony Clark">
-                <h3>Anthony Clark</h3>
-                <p>Position: Member</p>
-                <p>Anthony ensures every event runs smoothly.</p>
+                <img src="https://private-user-images.githubusercontent.com/119770157/388501188-2e572418-18fa-48fe-9da3-8c0a5c0cd49e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIxOTMxNTMsIm5iZiI6MTczMjE5Mjg1MywicGF0aCI6Ii8xMTk3NzAxNTcvMzg4NTAxMTg4LTJlNTcyNDE4LTE4ZmEtNDhmZS05ZGEzLThjMGE1YzBjZDQ5ZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyMVQxMjQwNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00ZGJiOWQwMGIxZjRmNjgxNGE3ZWNjMGRkNjZjODYwY2FhNmJkODQyZjY1ZWY2ODQ5ZTE5ODIwZTJhYTg5ZGE1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.wGavnWOxEGbESGrjMwnB0pcJslfYm2PSChQU5RD1b6k" alt="Khen Justine Castillo">
+                <h3>Khen Justine Castillo</h3>
+                <p>Committee Head For Cultural Affairs</p>
+              
             </div>
             <!-- Officer 16 -->
             <div class="officer">
-                <img src="officer16.jpg" alt="Amelia Lewis">
-                <h3>Amelia Lewis</h3>
-                <p>Position: Member</p>
-                <p>Amelia is dedicated to fostering inclusivity.</p>
+                <img src="https://private-user-images.githubusercontent.com/119770157/388501197-a14afac8-1cf8-4cce-b251-05eb0cbb4153.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIxOTU3NTIsIm5iZiI6MTczMjE5NTQ1MiwicGF0aCI6Ii8xMTk3NzAxNTcvMzg4NTAxMTk3LWExNGFmYWM4LTFjZjgtNGNjZS1iMjUxLTA1ZWIwY2JiNDE1My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyMVQxMzI0MTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05OWNkNjI5NWYyNjE3NTg0M2RiYWQ3MTVmZmI3Y2Q5ZDAwZjFkOTdhMTM5NmRkNTYxZTQxODg5MjI1MjBmMzY5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.gKagUE7LATTlmHmPZ2fBSLrw-U31f-G0yUaqGreadoU" alt="Baron Miguel Niog">
+                <h3>Baron Miguel Niog</h3>
+                <p>Committee Head For Student Grievance</p>
+         
             </div>
             <!-- Officer 17 -->
             <div class="officer">
-                <img src="officer17.jpg" alt="Ethan Robinson">
-                <h3>Ethan Robinson</h3>
-                <p>Position: Member</p>
-                <p>Ethan is a technology enthusiast aiding council tasks.</p>
+                <img src="https://private-user-images.githubusercontent.com/119770157/388500914-d2be114e-8742-4fa0-85a4-a22be12a4567.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIxOTMxNTMsIm5iZiI6MTczMjE5Mjg1MywicGF0aCI6Ii8xMTk3NzAxNTcvMzg4NTAwOTE0LWQyYmUxMTRlLTg3NDItNGZhMC04NWE0LWEyMmJlMTJhNDU2Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyMVQxMjQwNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05MDU0N2VjZDhmMDlmN2E0NmViNDBiOTZiNzliMWFjM2ExNWVlNWU0Y2I3N2M1ZGUzMDFkOTRiMmFiY2Q5MTU4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.KiFHeCWunyna9F1nuSZwhJICFE4Z9zDPAxfChawcilo" alt="Bien Joshua Macuha">
+                <h3>Bien Joshua Macuha</h3>
+                <p>Committee Head For Procurement</p>
+             
             </div>
             <!-- Officer 18 -->
             <div class="officer">
-                <img src="officer18.jpg" alt="Ava Hall">
-                <h3>Ava Hall</h3>
-                <p>Position: Member</p>
-                <p>Ava is known for her attention to detail in planning.</p>
+                <img src="https://private-user-images.githubusercontent.com/119770157/388500940-71a16209-e2e4-4997-929c-fc5678174e11.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIxOTMxNTMsIm5iZiI6MTczMjE5Mjg1MywicGF0aCI6Ii8xMTk3NzAxNTcvMzg4NTAwOTQwLTcxYTE2MjA5LWUyZTQtNDk5Ny05MjljLWZjNTY3ODE3NGUxMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyMVQxMjQwNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zODFiYmVkNjMzMmE4N2E4Njg0MTcwYTFlOGIwOWRlZGQ5YjViNjZhN2U1NThhYzg0Y2NkMmEyMmM1ZGQ2NzBjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.rR65BAbVPASziiT7gj9b-Ylo5K1t8mnx7uyR_ACNg50" alt="VM Dalisay">
+                <h3>VM Dalisay</h3>
+                <p>Committee Head For Extension Programs</p>
+            
             </div>
             <!-- Officer 19 -->
             <div class="officer">
-                <img src="officer19.jpg" alt="Alexander Young">
-                <h3>Alexander Young</h3>
-                <p>Position: Member</p>
-                <p>Alexander brings energy and enthusiasm to the team.</p>
+                <img src="https://private-user-images.githubusercontent.com/119770157/388500946-dae444b9-5e75-4c7a-a357-e7a766119883.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIxOTMxNTMsIm5iZiI6MTczMjE5Mjg1MywicGF0aCI6Ii8xMTk3NzAxNTcvMzg4NTAwOTQ2LWRhZTQ0NGI5LTVlNzUtNGM3YS1hMzU3LWU3YTc2NjExOTg4My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyMVQxMjQwNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hYzQ3MDZmYTczOWE1YWNkYjcxYTE2YTVhNGIyN2Q0ZTE3ODE4ZDViNzVkNWM1MTZiYTEyZmE0MDBmYTYyZWI0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.vgQkzywY1YWZZA1WXUDu-jSqf-El0ejdiwgTXgeN4g4" alt="Jhon Loyd Bunyi">
+                <h3>Jhon Loyd Bunyi</h3>
+                <p>Committee Head For DRRM</p>
+               
             </div>
             <!-- Officer 20 -->
             <div class="officer">
-                <img src="officer20.jpg" alt="Mia King">
-                <h3>Mia King</h3>
-                <p>Position: Member</p>
-                <p>Mia is a key contributor to outreach programs.</p>
+                <img src="https://private-user-images.githubusercontent.com/119770157/388500955-9e12784d-85d2-4fc7-8085-f3c1cacbf510.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIxOTMxNTMsIm5iZiI6MTczMjE5Mjg1MywicGF0aCI6Ii8xMTk3NzAxNTcvMzg4NTAwOTU1LTllMTI3ODRkLTg1ZDItNGZjNy04MDg1LWYzYzFjYWNiZjUxMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyMVQxMjQwNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kOGM3NmI2MjU5ODAxODQxNWNjMTIxZWZhYTVkMzAwMDZmN2YwNDk1MmFkMzdhOTEzNjY2ZDQ1NTAwY2E4MTYyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.qweHl919aiHb2qmiiQp0Jsc5almyHL8X36efljesXW8" alt="Leanne Rosales">
+                <h3>Leanne Rosales</h3>
+                <p>Committee Head For Resource Generation</p>
+               
             </div>
+            <div class="officer">
+                <img src="https://private-user-images.githubusercontent.com/119770157/388500968-8e7952a9-fdde-4290-abdb-16381a36d996.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIxOTMxNTMsIm5iZiI6MTczMjE5Mjg1MywicGF0aCI6Ii8xMTk3NzAxNTcvMzg4NTAwOTY4LThlNzk1MmE5LWZkZGUtNDI5MC1hYmRiLTE2MzgxYTM2ZDk5Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyMVQxMjQwNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNWU4NTdiZWRkNWFlYzQ0ZmQ3MzJlZmZiNWQ3NjlmZDZjZDYzYWRlNmU0YjQ4MDVmZjM4YWJiOTAyNzA3ZjRjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.opOsMpa49th3MeDKq9ls2OT3_xt89dVbEcxBKrwlgIk" alt="Daine Harvey Siscar">
+                <h3>Daine Harvey Siscar</h3>
+                <p>Committee Head For Gender and Development</p>
+               
+            </div>
+            <div class="officer">
+                <img src="https://private-user-images.githubusercontent.com/119770157/388500980-1e3cf115-f81d-49ad-a946-583d24a5b57b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIxOTMxNTMsIm5iZiI6MTczMjE5Mjg1MywicGF0aCI6Ii8xMTk3NzAxNTcvMzg4NTAwOTgwLTFlM2NmMTE1LWY4MWQtNDlhZC1hOTQ2LTU4M2QyNGE1YjU3Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyMVQxMjQwNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kYjE3YTVlODA5YTIxNjAxZDEzNjVhMjQyMTZlMDJhMjVjM2U3ZWFhZGQwNjE3M2M2YTA2YjhmZWI2YzUxMDlmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.2BCu1R1uojMfKNo25XmrheyDRRYxKVwHJEY5BrphGzM" alt="John Dexter Lanot">
+                <h3>John Dexter Lanot</h3>
+                <p>Committee Head For Technical Affairs</p>
+               
+            </div>
+            <div class="officer">
+                <img src="https://private-user-images.githubusercontent.com/119770157/388500992-d8aa0499-6f94-42ba-a788-04b4f4f89621.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIxOTMxNTMsIm5iZiI6MTczMjE5Mjg1MywicGF0aCI6Ii8xMTk3NzAxNTcvMzg4NTAwOTkyLWQ4YWEwNDk5LTZmOTQtNDJiYS1hNzg4LTA0YjRmNGY4OTYyMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyMVQxMjQwNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNjBmNzM1YWY3NGIyMDhmNDI3MWQyNmMzYzI2NDE4MzUzMzNjZTYwZGMzNWVjNTQ0NzJhYWQ1NDcxNTQ3MzBiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.zLsKQpflrI-dfcIdp3h0w5n8EWBNlGbhWAIoO3yXxeY" alt="Aila Roshielle Donayre">
+                <h3>Aila Roshielle Donayre</h3>
+                <p>Committee Member For Technical Affairs</p>
+                
+            </div>
+            <div class="officer">
+                <img src="https://private-user-images.githubusercontent.com/119770157/388500999-40c716f3-8d40-4d6a-99d1-0e2b233d775c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIxOTMxNTMsIm5iZiI6MTczMjE5Mjg1MywicGF0aCI6Ii8xMTk3NzAxNTcvMzg4NTAwOTk5LTQwYzcxNmYzLThkNDAtNGQ2YS05OWQxLTBlMmIyMzNkNzc1Yy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyMVQxMjQwNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02MjA1ZGZmMWIzNDA1NGIwYmFjMjFiMGYzOGVhZmNjOWVmOWRkMWViZGI2ZTVjN2UwMmVlMWZjMTQzYmM3YzdhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.XrqHsOfJxYqQr893suWCMkbotUZxzGF4v-64XBw8HEw" alt="Anothonina Daphniella Vael">
+                <h3>"Anothonina Daphniella Vael</h3>
+                <p>Committee Member For Technical Affairs</p>
+                
+            </div>
+            <div class="officer">
+                <img src="https://private-user-images.githubusercontent.com/119770157/388501009-14522aef-9475-4eff-9bdb-8f8045044b04.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIxOTMxNTMsIm5iZiI6MTczMjE5Mjg1MywicGF0aCI6Ii8xMTk3NzAxNTcvMzg4NTAxMDA5LTE0NTIyYWVmLTk0NzUtNGVmZi05YmRiLThmODA0NTA0NGIwNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyMVQxMjQwNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kYWY0MjE5OWFmNzVhNjFhNGI2MTJmMTJjOGU5MjE5NDNlYjUyZWE4YzYwY2M2ODAxNmRhMTVjY2I5MzE4NmVmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.4hp4rpNJIfmjuezSJePLIVrLJjnVRXH-Al1sNakuxlE" alt="Darlene Opena">
+                <h3>Darlene Opena</h3>
+                <p>Committee Member For Technical Affairs</p>
+               
+            </div>
+            <div class="officer">
+                <img src="https://private-user-images.githubusercontent.com/119770157/388501015-2090a6c9-72f0-4027-aff3-1d61be509887.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIxOTMxNTMsIm5iZiI6MTczMjE5Mjg1MywicGF0aCI6Ii8xMTk3NzAxNTcvMzg4NTAxMDE1LTIwOTBhNmM5LTcyZjAtNDAyNy1hZmYzLTFkNjFiZTUwOTg4Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyMVQxMjQwNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mOTMwZTlkMzE2MTgxZThmYzA2MjBmNWVkM2QyYjFhZDY0YWExYjA5YWY1MmRhMWUzNjkwYzFlNzcyN2NmZGM0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.1sAWsPJXlXrf5SndpnveqFodF00izsMWnQem_oKoaoQ" alt="April Kate Javier">
+                <h3>April Kate Javier</h3>
+                <p>4th Year Representative</p>
+               
+            </div>
+            <div class="officer">
+                <img src="https://private-user-images.githubusercontent.com/119770157/388501015-2090a6c9-72f0-4027-aff3-1d61be509887.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIxOTMxNTMsIm5iZiI6MTczMjE5Mjg1MywicGF0aCI6Ii8xMTk3NzAxNTcvMzg4NTAxMDE1LTIwOTBhNmM5LTcyZjAtNDAyNy1hZmYzLTFkNjFiZTUwOTg4Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyMVQxMjQwNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mOTMwZTlkMzE2MTgxZThmYzA2MjBmNWVkM2QyYjFhZDY0YWExYjA5YWY1MmRhMWUzNjkwYzFlNzcyN2NmZGM0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.1sAWsPJXlXrf5SndpnveqFodF00izsMWnQem_oKoaoQ" alt="Emmanuel Recinto">
+                <h3>Emmanuel Recinto</h3>
+                <p>4th Year Representative</p>
+                
+            </div>
+            <div class="officer">
+                <img src="https://private-user-images.githubusercontent.com/119770157/388501035-1b9d08dd-2829-42c4-9be1-6656be3fad31.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIxOTMxNTMsIm5iZiI6MTczMjE5Mjg1MywicGF0aCI6Ii8xMTk3NzAxNTcvMzg4NTAxMDM1LTFiOWQwOGRkLTI4MjktNDJjNC05YmUxLTY2NTZiZTNmYWQzMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyMVQxMjQwNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05Yjk1ZmFlNjljYTdjMjNiODdhOGNlZjczZDZhYjYyOTNkMzAzZGE5MzljZjQ4YjY4ZDVjNWU0YmZkZGQ5MTg2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Xv0C1shpnbTlMqIGOdbi2SNsghrNEUSL7RFA7n0KgyY" alt="Czynon De Torres">
+                <h3>Czynon De Torres</h3>
+                <p>3rd Year Representative</p>
+              
+            </div>
+            <div class="officer">
+                <img src="https://private-user-images.githubusercontent.com/119770157/388501038-3e58b0ea-ed7e-4d89-b5f1-50603364844a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIxOTMxNTMsIm5iZiI6MTczMjE5Mjg1MywicGF0aCI6Ii8xMTk3NzAxNTcvMzg4NTAxMDM4LTNlNThiMGVhLWVkN2UtNGQ4OS1iNWYxLTUwNjAzMzY0ODQ0YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyMVQxMjQwNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMGZlYTU4MTU0Y2Q3ZDI1MDMxMWI5ZTFjZWQ0ZWYzOGYyZTI0OWI1MmM0Y2YzYzg0Y2IxMDMwMjNjMGE5ODFhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.BnaEMYtFpZR9XS4jzSxvK0k2NT5krfzrF_Yc_X_uFbU" alt="Hannah Mendoza">
+                <h3>Hannah Mendoza</h3>
+                <p>3rd Year Representative</p>
+             
+            </div>
+            <div class="officer">
+                <img src="https://private-user-images.githubusercontent.com/119770157/388501044-1c4ea9d5-6fca-46a0-9a16-c61679435ded.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIxOTMxNTMsIm5iZiI6MTczMjE5Mjg1MywicGF0aCI6Ii8xMTk3NzAxNTcvMzg4NTAxMDQ0LTFjNGVhOWQ1LTZmY2EtNDZhMC05YTE2LWM2MTY3OTQzNWRlZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyMVQxMjQwNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01MzVjNTU3NjhiMzBjOWRhMzEzZTYwMmRiZTA3NDBiYTcyNGIzMzJiZjJhZTI0OTE5YTliNWJhZTE2NTU1MDFjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.f0byEcJByBcrFtqLFCn99ZuE0VGhNnYGYkjiQrIM58Q" alt="Virgilio Campit">
+                <h3>Virgilio Campit</h3>
+                <p>2nd Year Representative</p>
+                
+            </div>
+
+            <div class="officer">
+                <img src="https://private-user-images.githubusercontent.com/119770157/388501050-7c4cd640-2825-4258-b886-00db87ad3877.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIxOTMxNTMsIm5iZiI6MTczMjE5Mjg1MywicGF0aCI6Ii8xMTk3NzAxNTcvMzg4NTAxMDUwLTdjNGNkNjQwLTI4MjUtNDI1OC1iODg2LTAwZGI4N2FkMzg3Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyMVQxMjQwNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mY2ZiYWRlN2NkYjhhNjg1ZDQ0MjEwNjAxN2QwNzdhN2YwMDlkNWUxN2NiNDNkYjRkOGRkZjJmMDY1ZGJjNGQ1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.GqIRpBHzESJGZVcNaCa8aNLWxZNm9G2LcLM1nKuX2bI" alt="Kristal Clarisse Dimayuga">
+                <h3>Kristal Clarisse Dimayuga</h3>
+                <p>2nd Year Representative</p>
+               
+            </div>
+            =
         </div>
     </div>
 </body>
