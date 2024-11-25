@@ -1,6 +1,8 @@
-![gear up](https://github.com/user-attachments/assets/e0d01ea5-4cc7-42a6-9307-39547405e38f)
+
 ![acad pantry](https://github.com/user-attachments/assets/b86b3202-de26-40aa-acbe-c0d9d91bdb18)
-![pixels to paper](https://github.com/user-attachments/assets/f0be5322-2387-4a62-a0df-33cb3b2af2b7)
+![sports](https://github.com/user-attachments/assets/3ddc67db-d6c5-49ad-899d-f82169dd5152)
+![print](https://github.com/user-attachments/assets/1537a17e-ff2f-4e31-aae4-d28cc3d2ec1b)
+
 ![7](https://github.com/user-attachments/assets/77c79497-d7b2-4fb3-9aaf-a44839bde668)
 ![9](https://github.com/user-attachments/assets/33588cf7-5790-4224-8e41-5caac4d9fc97)
 ![8](https://github.com/user-attachments/assets/796c5cde-f338-4317-84eb-585cfabbe002)
