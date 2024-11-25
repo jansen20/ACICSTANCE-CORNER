@@ -1,10 +1,6 @@
-
-
-![FREE PRINTING SERVICE](https://github.com/user-attachments/assets/2026528a-fc0e-4247-a671-7efd89632ed1)
-![sports](https://github.com/user-attachments/assets/404340f0-c066-4833-bfdc-db0a138c1156)
-![school supplies](https://github.com/user-attachments/assets/06731595-e515-4fc7-a9de-f25e4ee2d711)
-
-
+![gear up](https://github.com/user-attachments/assets/e0d01ea5-4cc7-42a6-9307-39547405e38f)
+![acad pantry](https://github.com/user-attachments/assets/b86b3202-de26-40aa-acbe-c0d9d91bdb18)
+![pixels to paper](https://github.com/user-attachments/assets/f0be5322-2387-4a62-a0df-33cb3b2af2b7)
 ![7](https://github.com/user-attachments/assets/77c79497-d7b2-4fb3-9aaf-a44839bde668)
 ![9](https://github.com/user-attachments/assets/33588cf7-5790-4224-8e41-5caac4d9fc97)
 ![8](https://github.com/user-attachments/assets/796c5cde-f338-4317-84eb-585cfabbe002)
